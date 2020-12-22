@@ -14,6 +14,7 @@ CREATE DATABASE comapp;
 
 USE comapp;
 
+
 **-Criar a Tabela**
 
 Criado a base de dados, no prompt irá ser utilizado o comando:
@@ -23,6 +24,8 @@ cd "na pasta onde está no projeto"
 cd models
 
 node Cmt.js
+
+**OBS: Se houver erro, baixar "na pasta do projeto" no npm: express, myslq2 e sequelize**
 
 **-Funcionamento**
 
