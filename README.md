@@ -1,6 +1,9 @@
 <h1 align="center"> Bem Vindo! </h1>
 
 ## Funcionamento
+**-Baixar todos os Modules usados**
+
+Foram usados: express, body-parser, nodemon, express-handlebars, sequelize, mysql2
 
 <br>
 
@@ -27,8 +30,6 @@ cd "na pasta onde está no projeto"
 cd models
 
 node Cmt.js
-
-**OBS: Se houver erro, baixar "na pasta do projeto" no npm: express, myslq2 e sequelize**
 
 <br>
 
