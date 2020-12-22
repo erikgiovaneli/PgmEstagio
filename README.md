@@ -2,6 +2,8 @@
 
 ## Funcionamento
 
+<br>
+
 **-Banco de Dados**
 
 Primeiro deverá se conectar com o banco de dados local, para fazer a seguinte database 'comapp':
@@ -14,6 +16,7 @@ CREATE DATABASE comapp;
 
 USE comapp;
 
+<br>
 
 **-Criar a Tabela**
 
@@ -26,6 +29,8 @@ cd models
 node Cmt.js
 
 **OBS: Se houver erro, baixar "na pasta do projeto" no npm: express, myslq2 e sequelize**
+
+<br>
 
 **-Funcionamento**
 
